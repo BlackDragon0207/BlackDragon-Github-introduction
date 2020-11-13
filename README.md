@@ -13,4 +13,4 @@ BlackDragon Community 의 대표로 활동 하고 있습니다.
 * JavaScript(node.js)
 * Python
 
-공부중임!
+현재 공부중임!
