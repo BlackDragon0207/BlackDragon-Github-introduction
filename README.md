@@ -19,4 +19,8 @@ BlackDragon Community 의 대표로 활동 하고 있습니다.
 
 ### [ 현재 만든 봇 ]
 
-![Dragon 1](https://cdn.discordapp.com/attachments/772423311442837534/777185250979086346/1.PNG) ![Dragon 2](https://cdn.discordapp.com/attachments/772423311442837534/777185249687502858/2.PNG)
+![Dragon 1](https://cdn.discordapp.com/attachments/772423311442837534/777185250979086346/1.PNG) 
+[ 커뮤니티 공식 봇 ]
+
+![Dragon 2](https://cdn.discordapp.com/attachments/772423311442837534/777185249687502858/2.PNG)
+[ 커뮤니티 놀이 봇 ]
