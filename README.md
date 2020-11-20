@@ -4,7 +4,6 @@
 
 BlackDragon Community 의 대표로 활동 하고 있습니다. 
 
-![Dragon](https://cdn.discordapp.com/attachments/772423311442837534/776502884274536488/25.png)
 
 * [BlackDragon Community URL](httpsdiscord.ggXCpAAYY)
 
