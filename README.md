@@ -10,7 +10,7 @@ BlackDragon Community 의 대표로 활동 하고 있습니다.
 ### [ 봇 코딩 언어 ]
 
 * JavaScript(node.js)
-* Python(파이썬 접음ㅋ)
+* Python
 
 현재 공부중임!
 
